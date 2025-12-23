@@ -1,0 +1,5 @@
+{
+  "name": "DT Project",
+  "description": "A high-performance cybersecurity tool leveraging Gemini AI to analyze URLs for phishing, malware, and malicious patterns in real-time.",
+  "requestFramePermissions": []
+}
